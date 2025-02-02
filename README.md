@@ -1,0 +1,1 @@
+- [Тема 1. Основи ООП у JavaScript](https://docs.google.com/document/d/1YHHm4QTdYbc4nGZKiJ6StVxclRoqhjlL/edit?usp=sharing&ouid=100115372614727469612&rtpof=true&sd=true)
